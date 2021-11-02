@@ -1,0 +1,8 @@
+dc82e40bc2ce10138b9aa81141b2df17 *DESCRIPTION
+6552ea5f49929dd1c2e90c444ba05de6 *NAMESPACE
+c8e294aef54ddacfc1da9c259d98d6d8 *R/lbm.R
+b90873dab9c3b1af07312f3b1765e6f8 *R/lbm_NR.R
+bcdc5750fcae0bcdbaf6794a0ddd87f3 *R/lbm_reform.R
+0de0613cfe9ddeee6fd29d2145f5b313 *R/lbm_starting_values.R
+1d25be4513c37ef1b5e734d655aadedf *man/lbm.Rd
+dd948d40f795bad5faf139f5b229c06e *man/lbm.control.Rd
